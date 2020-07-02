@@ -1,4 +1,4 @@
-# Analise-de-Dados-sobre-Notifica-es-de-Simdrome-Gripal-no-Estado-de-Sao-Paulo
+# Análise de Dados sobre Notificações de Síndrome Gripal no Estado de São Paulo
 Projeto proposto pelo professor Masanori aos alunos da Fatec - São José dos Campos
 
 ## Colaborador do Projeto
